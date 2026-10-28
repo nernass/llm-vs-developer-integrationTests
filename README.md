@@ -4,9 +4,6 @@ Replication package for the mutation-testing experiment: 18 open-source Java pro
 (Claude, GPT, Gemini, DeepSeek) and the developer-written tests of each project, evaluated with
 [PIT](https://pitest.org) 1.30.1.
 
-> **Status:** `data/generated_tests/` (the 360 generated suites) is to be added by the authors.
-> Everything else in this repository reproduces the reported mutation-testing results.
-
 ## Contents
 
 ```
@@ -115,4 +112,4 @@ Over the 18 projects (3,216 mutants): 560 mutants killed by all suites, 56 LLM-o
 
 If you use this material, please cite the paper and the archived release:
 
-> N. Nasser and C. Sahin, "Investigating Advanced Prompt Engineering for Integration Test Generation: An Empirical Study on Real-World Java Projects Using the RCI Framework," 2026. Replication package, DOI: 10.5281/zenodo.XXXXXXX.
+> N. Nasser and C. Sahin, "Investigating Advanced Prompt Engineering for Integration Test Generation: An Empirical Study on Real-World Java Projects Using the RCI Framework," 2026. Replication package, DOI: 10.5281/zenodo.23735550.
