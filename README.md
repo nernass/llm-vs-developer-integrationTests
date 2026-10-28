@@ -22,8 +22,6 @@ scripts/
   match_mutants.py          matches mutants across the five suites of one project and classifies them
   build_results.py          rebuilds mutation_scores_90.csv and mutant_categories.csv from the raw reports
   bootstrap_ci.py           bootstrap CIs over the 18 projects
-docs/
-  Reproducibility_Report_PIT_Mutation_Testing.docx
 ```
 
 ## Reproduce the results
